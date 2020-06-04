@@ -7,7 +7,7 @@ Chicago, officially the Chity of Chicago,is the most populous city in Illinois, 
 **Is Chicago a good place to find a job? What kind of job should be a good choice?**
 
 ### Storyborad
-- [Storyborad of whole project analysis](https://github.com/CathyXueqingZhang/Tableau/blob/master/Storyboard%20(1).pdf)
+- [Storyborad of whole project analysis](https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Tableau/Storyboard.pdf)
 
 
 ### Interactive Visualizations(Tableau Public)
