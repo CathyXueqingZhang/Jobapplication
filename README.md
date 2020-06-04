@@ -1,7 +1,7 @@
 # Technical Skills
 This include all types of coding I have done before.<br/>
 
-# Tableau
+## Tableau
 - [Interactive Visualizations]()<br/>
 
-# Java
+## Java
