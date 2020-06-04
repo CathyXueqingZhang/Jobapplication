@@ -1,5 +1,5 @@
 # Tableau Interactive Visualization
-The Tableau data analysis project
+The Tableau data analysis project<br/><br/>
 
 ## Chicago Area Employment Situation Summary (2014 - 2017)
 
