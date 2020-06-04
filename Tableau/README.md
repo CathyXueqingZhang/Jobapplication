@@ -4,7 +4,7 @@ The Tableau data analysis project
 ## Chicago Area Employment Situation Summary (2014 - 2017)
 
 Chicago, officially the Chity of Chicago,is the most populous city in Illinois, as well as the third most populous city in the United States. It became the winner of Time Out's 2018 City Life Index. Downtown growth also leads Chicago to the highest job peak in decades. 
-**Is Chicago a good place to find a job? What kind of job should be a good choice?**
+**Is Chicago a good place to find a job? What kind of job should be a good choice?**<br/><br/>
 
 ### Storyborad
 - [Storyborad of whole project analysis](https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Tableau/Storyboard.pdf)
