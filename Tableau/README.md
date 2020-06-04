@@ -14,7 +14,7 @@ Chicago, officially the Chity of Chicago,is the most populous city in Illinois, 
 - [Chicago Area Employment Situation Summary (2014 - 2017)](https://public.tableau.com/profile/cathy.xueqing.zhang5182#!/vizhome/FinalProject_15549878978920/Dashboard1?publish=yes)
 
 ### Interactive Visualizations Description 
-- [Dashboard Description](https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Tableau/Description.md)<br/><br/><br/>
+- [Dashboard Description](https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Tableau/Description.md)<br/><br/>
 
 ### Conclusion
 - Chicago is a good place to find a job. Based on my analyze, the occupations belong to Business, Science & Arts could be the
