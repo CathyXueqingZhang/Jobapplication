@@ -6,3 +6,9 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 
 ## Java
 
+## Python
+
+## R
+
+## SQL
+
