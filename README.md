@@ -5,10 +5,10 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 - [Interactive Visualizations](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)<br/><br/>
 
 ## Java
-- Program 1: Calculator(https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)
-- Program 2: Binary Search Tree(https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)
-- Program 3: Local Messenger(https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)
-- Program 4: Information Saving(https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)
+- [Program 1: Calculator](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)
+- [Program 2: Binary Search Tree](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)
+- [Program 3: Local Messenger](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)
+- [Program 4: Information Saving](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)
 
 
 ## Python
