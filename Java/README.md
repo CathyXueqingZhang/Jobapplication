@@ -2,7 +2,7 @@ I have finished 5 computer science courses in University of Dayton, including 1 
 
 ### Program 1: Calculator
 - For this Project, I implemented a core part of a calculator that for a given sequence of computation (e.g. “5 + 3 * 12 / 25”), my program is able to analyze the expression string by extracting out numbers or operators, and finally compute the result if the input is a valid expression.<br/>
-====
+
 
 ### Program 2: Binary Search Tree
 - For this project, I will create Binary Search Tree (BST) and implement the action of insert/delete a node. <br/>
