@@ -12,8 +12,8 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 
 
 ## Python
-- Google Play Store
-- New York Taxi
+- New York Taxi (Data visualization)
+- Google Play Store (Data visualization & machine learning)
 - 
 
 ## R
