@@ -26,7 +26,8 @@ In order to analysis a dataset and create several proper visualizations.
 <br/><br/>
 
 ## 1. To a Learning Outcome Upload the data and display data columns, number of rows, variable types, and numeric statistics + categorical variable frequencies, by using panda package
-![pic 1](/pic/Screen Shot 2020-07-08 at 22.57.03.png)<br/>
+![pic 1](/pic/Screen Shot 2020-07-08 at 22.57.03.png)
+
 ![pic 2](/pic/Screen Shot 2020-07-08 at 22.57.26.png)
 <br/><br/>
 
@@ -39,12 +40,12 @@ plt.scatter(px, py)
 ```
 ![plt 1](pic/output_21_1.png)
 However, this plt is hard to read.<br/>
-Thus, I customize the plot:<br/>
-Make markers smaller<br/>
-Make fewer points by making some points transparent<br/>
-Zoom in around Manhattan<br/>
-Make figure bigger<br/>
-Don't display the axes<br/>
+Thus, I customize the plot:
+-Make markers smaller
+-Make fewer points by making some points transparent
+-Zoom in around Manhattan
+-Make figure bigger
+-Don't display the axes
 plt or matplotlib.pyplot is a collection of command style functions. Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc. ...<br/>
 ```
 # Specify the figure size
