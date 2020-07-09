@@ -27,8 +27,8 @@ Trend | Number of Volume for the past 12 months
 A list of related keywords | A list of keywords that are similar to the target one
 A list of phrase-matched keywords | A list of keywords that contain exact keyword or keyword in various order 
 
-
-A snapshot of the first six dimensions
+![p](pic/Picture1.png)
+<br/>A snapshot of the first six dimensions
  
  
 
@@ -37,19 +37,21 @@ A snapshot of the first six dimensions
 Based on the algorithm of the SEMrush database, the related keywords are a list of keywords that are similar to the target one. (Similarity is based on the sense of a word)
 
 <br/>Each related keyword has a metric that measure how closely related to the target one. (0 ~100%)
-
-A snapshot of an example of the keywords:
+![p](pic/Picture2.png)
+<br/> A snapshot of an example of the keywords:
 
  
 #### 1.1.3 A list of phrase-matched keywords 
 <br/>
 Based on the algorithm of the SEMrush database, the phrase-matched keywords are a list of keywords that contain exact keyword or keyword in various order 
-A snapshot of an example of the keywords:
+![p](pic/Picture3.png)
+<br/>A snapshot of an example of the keywords:
  
 
 
 ### 1.2 Domain Database
 <br/>
+![p](pic/Picture4.png)
 A snapshot of how the data look like taking one of the car insurance domain as example:
 
  
@@ -67,12 +69,14 @@ To collect all keywords of each vertical, we use the related and phrase match al
 ### 2.2 Specific steps:
 
 
-
 - Step 1: Set a seed keyword, normally it should be an exclusive keyword that the vertical use in paid search.
 - Step 2: Set a threshold for the related metric, then acquire a list of keywords related to the seed.
 - Step 3: For each keyword in the list acquired in step 2, collect the list of phrase match keywords.
 - Step 4: Integrate all the data from step 3 include columns of keyword, and its dimensions.
 - Step 5: Select a subset of the dataset from step 4 to calculate the data for whole vertical.
+
+## 3 Overall result of Data Acquisition
+
 
 # Data Modeling
 ## Regression Model
