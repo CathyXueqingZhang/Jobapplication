@@ -15,6 +15,7 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 - [New York Taxi]() (Data visualization)
 - [Google Play Store]() (Data visualization & machine learning -- Regression model and NLP)
 - [Paid Search Ads]() (T-SNE Cluster model)
+- [Python and MySQL]()
 
 ## R
 - Wind map
