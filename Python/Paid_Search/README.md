@@ -18,8 +18,7 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 
-<br/>
-Dimensions |	Description
+<br/>Dimensions |	Description
 ------------ | -------------
 Volume | Average times users searched for the keywords related to the selected vertical
 Results | The number of URLs displayed for the keywords related to the selected vertical
