@@ -1,3 +1,4 @@
+Create by: Cathy Xueqing Zhang<br/><br/>
 # Description
 
 This is an Interactive Visualizations, which enables the exploration of data via the manipulation of chart images, 
