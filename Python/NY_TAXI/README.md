@@ -68,7 +68,7 @@ plt.axis('off')
 plt.title("scatter plot of pick up locations")
 plt.show()
 ```
-![plt 2](Pic/output_23_0.png)<br/>
+![plt 2](Pic/output_23_0.png)
 <br/>We can find the second one is much clear.<br/>
 <br/>
 #### To distinghuish different vendors, we need to plot them in difference colors to see if there is any findings
