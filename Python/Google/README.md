@@ -6,4 +6,4 @@ Android is the dominant mobile operating system today with about 85% of all mobi
 The purpose of this project was to gather and analyze detailed information on apps in the Google Play Store in order to provide insights on app features and the current state of the Android app market.<br/><br/>
 This two datasets Datasets from Kaggle.
 
-
+![plt 1](pic/0001.jpg)<br/>
