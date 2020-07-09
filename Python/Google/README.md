@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/Google/pic/google.jpeg" width="750" height="200">
+  <img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/Google/pic/google.jpeg" width="750" height="300">
 </p>
 
 Create by: Cathy Xueqing Zhang<br/><br/>
