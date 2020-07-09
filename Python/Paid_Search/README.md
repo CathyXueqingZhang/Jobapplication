@@ -79,12 +79,7 @@ To collect all keywords of each vertical, we use the related and phrase match al
 ![p](pic/0001.jpg)
 ![p](pic/0003.jpg)
 ![p](pic/0004.jpg)
-![p](pic/0005.jpg)
-![p](pic/0006.jpg)
-![p](pic/0007.jpg)
-![p](pic/0008.jpg)
-![p](pic/0009.jpg)
-![p](pic/0010.jpg)
+![p](pic/Picture6.png)
 ![p](pic/0011.jpg)
 
 # Data Modeling
