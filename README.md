@@ -6,17 +6,17 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 - [Interactive Visualizations](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)<br/><br/>
 
 ## Java
-- [Program 1: Calculator]() (Queue & Stack)
-- [Program 2: Binary Search Tree]()
-- [Program 3: Local Messenger]() (JavaFX)
-- [Program 4: Information Saving]() (JDBC and MySQL server)
+- [Program 1: Calculator] (Queue & Stack)
+- [Program 2: Binary Search Tree]
+- [Program 3: Local Messenger] (JavaFX)
+- [Program 4: Information Saving] (JDBC and MySQL server)
 
 
 ## Python
 - [New York Taxi](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Python/NY_TAXI) (Data visualization)
 - [Google Play Store](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Python/Google) (Data visualization & machine learning -- Regression model and NLP)
 - [Paid Search Ads](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Python/Paid_Search) (T-SNE Cluster model)
-- [Python and MySQL]()
+- [Python and MySQL](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Python/Python-MySql/)
 
 ## R
 - Wind map
