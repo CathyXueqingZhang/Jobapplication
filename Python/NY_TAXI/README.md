@@ -26,14 +26,14 @@ In order to analysis a dataset and create several proper visualizations.
 <br/><br/>
 
 ## 1. To a Learning Outcome Upload the data and display data columns, number of rows, variable types, and numeric statistics + categorical variable frequencies, by using panda package
-<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY Taxi/pic/1.png"/>
+<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY_TAXI/pic/1.png"/>
 <br/>
-<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY Taxi/pic/2.png"/>
+<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY_TAXI/pic/2.png"/>
 
 <br/><br/>
 
 ## 2.Display a scatter plot of pick up locations. For which vendor is it easier to find a cab?
-<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY Taxi/pic/4.png"/>
+<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY_TAXI/pic/4.png"/>
 
 <br/> Display a scatter plot of pickup locations Matplotlib scatter function makes a scatter plot of x vs y, where x and y are sequence like objects of the same length. Documentation: [http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter](http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter)<br/>
 ```
@@ -65,7 +65,7 @@ plt.axis('off')
 plt.title("scatter plot of pick up locations")
 plt.show()
 ```
-![plt 2](pic/output_23_0.png)<br/>
+![plt 2](Pic/output_23_0.png)<br/>
 <br/>We can find the second one is much clear.<br/>
 <br/>
 #### To distinghuish different vendors, we need to plot them in difference colors to see if there is any findings
@@ -82,9 +82,9 @@ plt.title("scatter plot of pick up locations")
 plt.legend(loc='upper right')
 plt.show()
 ```
-![plt 3](pic/output_27_0.png)
+![plt 3](Pic/output_27_0.png)
 <br/>Also Customize it
-![plt 4](pic/output_28_0.png)
+![plt 4](Pic/output_28_0.png)
 
 Conclusion: VTS is more popular in NYC. The distribution of the amount paid is shown above. Compare to the original dataset, there are some outliers that are not easy shown in the graph.
 - For instance, there are some trips with payment greater than $200 or been negative (may due to some promos), which are not shown because of the small frequency.
