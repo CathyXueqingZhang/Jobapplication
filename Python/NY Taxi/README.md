@@ -26,7 +26,7 @@ In order to analysis a dataset and create several proper visualizations.
 <br/><br/>
 
 ## 1. To a Learning Outcome Upload the data and display data columns, number of rows, variable types, and numeric statistics + categorical variable frequencies, by using panda package
-<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY Taxi/pic/1.png" width="250" height="300" />
+<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY Taxi/pic/1.png" width="500" height="600" />
 ![pic_1](https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY Taxi/pic/1.png)
 
 ![pic 2](/pic/2.png)
