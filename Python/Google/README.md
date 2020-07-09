@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/Google/pic/google.jpeg" width="750" height="200">
+</p>
 <img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/Google/pic/google.jpeg" width="750" height="200" align="center"/><br/>
 Create by: Cathy Xueqing Zhang<br/><br/>
 
