@@ -26,13 +26,13 @@ In order to analysis a dataset and create several proper visualizations.
 <br/><br/>
 
 ## 1. To a Learning Outcome Upload the data and display data columns, number of rows, variable types, and numeric statistics + categorical variable frequencies, by using panda package
-![pic 1](/pic/Screen Shot 2020-07-08 at 22.57.03.png)
+![pic 1](/pic/1.png)
 
-![pic 2](/pic/Screen Shot 2020-07-08 at 22.57.26.png)
+![pic 2](/pic/2.png)
 <br/><br/>
 
 ## 2.Display a scatter plot of pick up locations. For which vendor is it easier to find a cab?
-![pic 3](/pic/Screen Shot 2020-07-08 at 22.58.30.png)
+![pic 3](/pic/3.png)
 
 Display a scatter plot of pickup locations Matplotlib scatter function makes a scatter plot of x vs y, where x and y are sequence like objects of the same length. Documentation: [http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter](http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter)
 ```
