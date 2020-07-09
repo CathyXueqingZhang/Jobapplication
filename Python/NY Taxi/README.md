@@ -26,7 +26,7 @@ In order to analysis a dataset and create several proper visualizations.
 <br/><br/>
 
 ## 1. To a Learning Outcome Upload the data and display data columns, number of rows, variable types, and numeric statistics + categorical variable frequencies, by using panda package
-![pic 1](/pic/Screen Shot 2020-07-08 at 22.57.03.png)
+![pic 1](/pic/Screen Shot 2020-07-08 at 22.57.03.png)<br/>
 ![pic 2](/pic/Screen Shot 2020-07-08 at 22.57.26.png)
 <br/><br/>
 
@@ -63,7 +63,7 @@ plt.axis('off')
 plt.title("scatter plot of pick up locations")
 plt.show()
 ```
-![plt 2](output_23_0.png)
+![plt 2](output_23_0.png)<br/>
 We can find the second one is much clear.<br/>
 <br/>
 #### To distinghuish different vendors, we need to plot them in difference colors to see if there is any findings
