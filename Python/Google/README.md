@@ -42,7 +42,6 @@ This two datasets Datasets (from Kaggle) includes descriptive information on ove
 Since the Google play store dataset also company with the review comments data, we also did some NLP analysis on it.<br/>
 ![plt 1](pic/0030.jpg)
 <br/>When I got the data, the first question is how is the data look like? So you can see from those charts that people’s review were classified into three category ,the positive, neutral and negative,  and here is their distribution. I also draw a scatter plot to see where the actual sentiment points are. You could see that the points in the positive side have more density and they are quite around the neutral mid line. 
-![plt 1](pic/0031.jpg)
 ![plt 1](pic/0032.jpg)
 ![plt 1](pic/0033.jpg)
 ![plt 1](pic/0034.jpg)
