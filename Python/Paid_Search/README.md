@@ -75,4 +75,7 @@ To collect all keywords of each vertical, we use the related and phrase match al
 -Step 4: Integrate all the data from step 3 include columns of keyword, and its dimensions.
 -Step 5: Select a subset of the dataset from step 4 to calculate the data for whole vertical.
 
-
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
