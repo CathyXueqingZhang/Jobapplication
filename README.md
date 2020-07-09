@@ -12,7 +12,7 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 
 
 ## Python
-- [New York Taxi](link rel = "https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Python/NY Taxi"/) (Data visualization)
+- [New York Taxi](link rel = "https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Python/NY Taxi") (Data visualization)
 - [Google Play Store]() (Data visualization & machine learning -- Regression model and NLP)
 - [Paid Search Ads]() (T-SNE Cluster model)
 - [Python and MySQL]()
