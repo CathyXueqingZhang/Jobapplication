@@ -39,7 +39,7 @@ In order to analysis a dataset and create several proper visualizations.
 ```
 plt.scatter(px, py)
 ```
-![plt 1](pic/output_21_1.png)
+![plt 1](Pic/output_21_1.png)
 <br/>However, this plot is hard to read.<br/>
 Thus, I customize the plot:
 -Make markers smaller
