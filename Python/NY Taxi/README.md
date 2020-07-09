@@ -40,13 +40,13 @@ In order to analysis a dataset and create several proper visualizations.
 plt.scatter(px, py)
 ```
 ![plt 1](pic/output_21_1.png)
-However, this plt is hard to read.<br/>
+<br/>However, this plot is hard to read.<br/>
 Thus, I customize the plot:
 -Make markers smaller
 -Make fewer points by making some points transparent
 -Zoom in around Manhattan
 -Make figure bigger
--Don't display the axes
+-Don't display the axes<br/>
 plt or matplotlib.pyplot is a collection of command style functions. Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc. ...<br/>
 ```
 # Specify the figure size
@@ -66,7 +66,7 @@ plt.title("scatter plot of pick up locations")
 plt.show()
 ```
 ![plt 2](pic/output_23_0.png)<br/>
-We can find the second one is much clear.<br/>
+<br/>We can find the second one is much clear.<br/>
 <br/>
 #### To distinghuish different vendors, we need to plot them in difference colors to see if there is any findings
 ```uniq = list(set(data['vendor_id']))
@@ -83,7 +83,7 @@ plt.legend(loc='upper right')
 plt.show()
 ```
 ![plt 3](pic/output_27_0.png)
-Also Customize it
+<br/>Also Customize it
 ![plt 4](pic/output_28_0.png)
 
 Conclusion: VTS is more popular in NYC. The distribution of the amount paid is shown above. Compare to the original dataset, there are some outliers that are not easy shown in the graph.
