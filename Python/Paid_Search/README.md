@@ -66,13 +66,11 @@ To collect all keywords of each vertical, we use the related and phrase match al
 
 ### 2.2 Specific steps:
 
--Step 1: Set a seed keyword, normally it should be an exclusive keyword that the vertical use in paid search.
--Step 2: Set a threshold for the related metric, then acquire a list of keywords related to the seed.
--Step 3: For each keyword in the list acquired in step 2, collect the list of phrase match keywords.
--Step 4: Integrate all the data from step 3 include columns of keyword, and its dimensions.
--Step 5: Select a subset of the dataset from step 4 to calculate the data for whole vertical.
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+
+- Step 1: Set a seed keyword, normally it should be an exclusive keyword that the vertical use in paid search.
+- Step 2: Set a threshold for the related metric, then acquire a list of keywords related to the seed.
+- Step 3: For each keyword in the list acquired in step 2, collect the list of phrase match keywords.
+- Step 4: Integrate all the data from step 3 include columns of keyword, and its dimensions.
+- Step 5: Select a subset of the dataset from step 4 to calculate the data for whole vertical.
+
