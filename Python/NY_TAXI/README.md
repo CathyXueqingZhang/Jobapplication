@@ -1,4 +1,6 @@
 <img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY_TAXI/Pic/taxi.jpg" width="1050" height="300" /><br/>
+Create by: Cathy Xueqing Zhang<br/><br/>
+
 # NYC Taxi Rides
 <br/>
 Data Provided by the New York City Taxi and Limousine Commission.
