@@ -1,4 +1,5 @@
 Create by: Cathy Xueqing Zhang<br/><br/>
+<img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Tableau/pic/1.png" width="1050" height="200" /><br/>
 # Tableau Interactive Visualization
 The Tableau data analysis project<br/><br/>
 
