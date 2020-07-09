@@ -15,7 +15,10 @@ For each keyword in every vertical, the database provides the data of 8 dimensio
 <br/>
 D | R
 --------|------------
-A|B
+A | B
+
+
+<br/>
 Dimensions |	Description
 ------------ | -------------
 Volume | Average times users searched for the keywords related to the selected vertical
