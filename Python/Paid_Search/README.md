@@ -12,22 +12,16 @@ SEMrush database is the source we target to collect the data. It provides two su
 ### 1.1 Keywords Database
 <br/>
 For each keyword in every vertical, the database provides the data of 8 dimensions related to the target one as listed below:<br/>
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-
 <br/>Dimensions |	Description
 ------------ | -------------
 Volume | Average times users searched for the keywords related to the selected vertical
 Results | The number of URLs displayed for the keywords related to the selected vertical
 CPC(USD) | Average Price the advertiser pays for one per click
-- Competition : Competitive density of advertiser
-- KD : How difficult it would be to rank well in organic search for the keywords in selected vertical
-- Trend : Number of Volume for the past 12 months
-- A list of related keywords : A list of keywords that are similar to the target one
-- A list of phrase-matched keywords : A list of keywords that contain exact keyword or keyword in various order 
+Competition | Competitive density of advertiser
+KD | How difficult it would be to rank well in organic search for the keywords in selected vertical
+Trend | Number of Volume for the past 12 months
+A list of related keywords | A list of keywords that are similar to the target one
+A list of phrase-matched keywords | A list of keywords that contain exact keyword or keyword in various order 
 
 
 A snapshot of the first six dimensions
