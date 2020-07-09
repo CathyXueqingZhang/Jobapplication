@@ -13,14 +13,14 @@ SEMrush database is the source we target to collect the data. It provides two su
 <br/>
 For each keyword in every vertical, the database provides the data of 8 dimensions related to the target one as listed below:
 <br/>Dimensions	Description
-- Volume : Average times users searched for the keywords related to the selected vertical
-- Results : The number of URLs displayed for the keywords related to the selected vertical
-- CPC(USD) : Average Price the advertiser pays for one per click
-- Competition : Competitive density of advertiser
-- KD : How difficult it would be to rank well in organic search for the keywords in selected vertical
-- Trend : Number of Volume for the past 12 months
-- A list of related keywords : A list of keywords that are similar to the target one
-- A list of phrase-matched keywords : A list of keywords that contain exact keyword or keyword in various order 
+-Volume : Average times users searched for the keywords related to the selected vertical
+-Results : The number of URLs displayed for the keywords related to the selected vertical
+-CPC(USD) : Average Price the advertiser pays for one per click
+-Competition : Competitive density of advertiser
+-KD : How difficult it would be to rank well in organic search for the keywords in selected vertical
+-Trend : Number of Volume for the past 12 months
+-A list of related keywords : A list of keywords that are similar to the target one
+-A list of phrase-matched keywords : A list of keywords that contain exact keyword or keyword in various order 
 
 
 A snapshot of the first six dimensions
@@ -61,10 +61,10 @@ To collect all keywords of each vertical, we use the related and phrase match al
 
 ### 2.2 Specific steps:
 
-- Step 1: Set a seed keyword, normally it should be an exclusive keyword that the vertical use in paid search.
-- Step 2: Set a threshold for the related metric, then acquire a list of keywords related to the seed.
-- Step 3: For each keyword in the list acquired in step 2, collect the list of phrase match keywords.
-- Step 4: Integrate all the data from step 3 include columns of keyword, and its dimensions.
-- Step 5: Select a subset of the dataset from step 4 to calculate the data for whole vertical.
+-Step 1: Set a seed keyword, normally it should be an exclusive keyword that the vertical use in paid search.
+-Step 2: Set a threshold for the related metric, then acquire a list of keywords related to the seed.
+-Step 3: For each keyword in the list acquired in step 2, collect the list of phrase match keywords.
+-Step 4: Integrate all the data from step 3 include columns of keyword, and its dimensions.
+-Step 5: Select a subset of the dataset from step 4 to calculate the data for whole vertical.
 
 
