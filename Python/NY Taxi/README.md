@@ -35,7 +35,7 @@ In order to analysis a dataset and create several proper visualizations.
 ## 2.Display a scatter plot of pick up locations. For which vendor is it easier to find a cab?
 <img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY Taxi/pic/3.png"/>
 
-<br/> Display a scatter plot of pickup locations Matplotlib scatter function makes a scatter plot of x vs y, where x and y are sequence like objects of the same length. Documentation: [http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter](http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter)
+<br/> Display a scatter plot of pickup locations Matplotlib scatter function makes a scatter plot of x vs y, where x and y are sequence like objects of the same length. Documentation: [http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter](http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter)<br/>
 ```
 plt.scatter(px, py)
 ```
