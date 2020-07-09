@@ -13,8 +13,8 @@ SEMrush database is the source we target to collect the data. It provides two su
 <br/>
 For each keyword in every vertical, the database provides the data of 8 dimensions related to the target one as listed below:
 <br/>
-D | R
---------|------------
+D3443234 | D3443234
+---------|---------
 A | B
 
 
