@@ -68,6 +68,7 @@ In order to acquire the data for every vertical, we intend to collect all keywor
 <br/>
 To collect all keywords of each vertical, we use the related and phrase match algorithm to estimate the totality.
 <br/><br/>
+
 ### 2.2 Specific steps:
 
 
@@ -77,6 +78,7 @@ To collect all keywords of each vertical, we use the related and phrase match al
 - Step 4: Integrate all the data from step 3 include columns of keyword, and its dimensions.
 - Step 5: Select a subset of the dataset from step 4 to calculate the data for whole vertical.
 
+<br/><br/>
 ## 3 Overall result of Data Acquisition
 ![p](pic/0001.jpg)
 ![p](pic/0003.jpg)
@@ -84,6 +86,7 @@ To collect all keywords of each vertical, we use the related and phrase match al
 ![p](pic/Picture6.png)
 ![p](pic/0011.jpg)
 
+<br/><br/>
 # Data Modeling
 ## Regression Model
 I have also considered analyzing the relationship between the values of CPC and paid attention token.
@@ -93,7 +96,7 @@ I have also considered analyzing the relationship between the values of CPC and 
 ![p](pic/regression.png)
 <br/>By running the regression model, unfortunately, we did not find a proper model to show the relationship between keywords and cpc value. On the left side of histogram, we plotted a regression tree with mean square error of 182 and a linear regression with mean square error of 198. However, the expected value of a good model should be below 20. On the other hand, the R^2 we have contributed is 0.1 which is a relatively low value, compared to the expected value of a good model being 0.75…
 
-
+<br/><br/>
 ## T-SNE Model
 t-Distributed Stochastic Neighbor Embedding (t-SNE) is an unsupervised, non-linear technique primarily used for data exploration and visualizing high-dimensional data. 
 ```
