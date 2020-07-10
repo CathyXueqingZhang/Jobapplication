@@ -10,6 +10,7 @@ This project analyze google search advertisement: Paid Search. Paid search is a 
 SEMrush database is the source we target to collect the data. It provides two subsets of the database that are valuable.
 <br/><br/>
 ### 1.1 Keywords Database
+
 <br/>
 For each keyword in every vertical, the database provides the data of 8 dimensions related to the target one as listed below:<br/>
 
