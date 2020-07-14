@@ -23,5 +23,6 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 - Regression model
 
 ## SQL
-- Relational database (including temp table)
+- temp table
+- SQL Machine Learning Services
 
