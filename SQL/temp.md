@@ -1,7 +1,7 @@
 # Temporary Table
-Temporary tables are created in tempdb. The name "temporary" is slightly misleading, for even though the tables are instantiated in tempdb, they are backed by physical disk and are even logged into the transaction log. They act like regular tables in that you can query their data via SELECT queries and modify their data via UPDATE, INSERT, and DELETE statements. <br/>
+Temporary tables are created in tempdb. The name "temporary" is slightly misleading, for even though the tables are instantiated in tempdb, they are backed by physical disk and are even logged into the transaction log. They act like regular tables in that you can query their data via SELECT queries and modify their data via *UPDATE, INSERT, and DELETE* statements. <br/>
 Temporary table name started with a "#" sign. <br/>
-```
+```SQL (type)
 CREATE TABLE dbo.#Cars 
    (   
    Car_id int NOT NULL, 
@@ -19,7 +19,7 @@ DROP TABLE dbo.[#Cars]
 ```
 we need to execute a DROP TABLE statement against #Cars. This is because the table persists until the session ends or until the table is dropped.
 
-```
+```SQL (type)
 --Table Variable: 
 DECLARE Cars TABLE 
    ( 
