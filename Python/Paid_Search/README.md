@@ -99,7 +99,7 @@ I have also considered analyzing the relationship between the values of CPC and 
 <br/><br/>
 ## T-SNE Model
 t-Distributed Stochastic Neighbor Embedding (t-SNE) is an unsupervised, non-linear technique primarily used for data exploration and visualizing high-dimensional data. 
-```
+```Python (type)
 from numpy import array
 from numpy import argmax
 from sklearn.preprocessing import LabelEncoder
@@ -121,7 +121,7 @@ min_max_scaler = preprocessing.MinMaxScaler()
 X=min_max_scaler.fit_transform(X)
 ```
 The t-SNE algorithm calculates a similarity measure between pairs of instances in the high dimensional space and in the low dimensional space.
-```
+```Python (type)
 def visualize(x):
     target_names=a
     target_ids = range(len(target_names))
