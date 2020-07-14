@@ -9,14 +9,15 @@ Full dataset is 170 million taxi trips, 100GB of free space. Our subset is 0.5% 
 <br/><br/>
 This project will use 3 packages:
 
-```import numpy as np 
+```Python (type)
+import numpy as np 
 import pandas as pd
 import matplotlib
 import matplotlib.pyplot as plt 
 %matplotlib inline
 ```
 Import dataset (CSV format (Comma Separated Values), which is a simple file format used to store tabular data, such as a spreadsheet or database.):
-```
+```Python (type)
 data_filename1 = 'nyc_data.csv' 
 data_filename2 = 'nyc_fare.csv'
 
@@ -39,7 +40,7 @@ In order to analysis a dataset and create several proper visualizations.
 <img src="https://github.com/CathyXueqingZhang/Jobapplication/blob/master/Python/NY_TAXI/Pic/4.png"/>
 
 <br/> Display a scatter plot of pickup locations Matplotlib scatter function makes a scatter plot of x vs y, where x and y are sequence like objects of the same length. Documentation: [http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter](http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.scatter)<br/>
-```
+```Python (type)
 plt.scatter(px, py)
 ```
 ![plt 1](Pic/output_21_1.png)
@@ -51,7 +52,7 @@ Thus, I customize the plot:
 -Make figure bigger
 -Don't display the axes<br/>
 plt or matplotlib.pyplot is a collection of command style functions. Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc. ...<br/>
-```
+```Python (type)
 # Specify the figure size
 plt.figure(figsize=(10, 10))
 # s argument is used to make the marker size smaller
@@ -72,7 +73,8 @@ plt.show()
 <br/>We can find the second one is much clear.<br/>
 <br/>
 #### To distinghuish different vendors, we need to plot them in difference colors to see if there is any findings
-```uniq = list(set(data['vendor_id']))
+```Python (type)
+uniq = list(set(data['vendor_id']))
 #set the color map to match the number of vendor
 z = range(1,len(uniq))
 cmap = matplotlib.cm.get_cmap('hot')
