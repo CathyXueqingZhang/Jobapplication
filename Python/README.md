@@ -1,5 +1,5 @@
 Create by: Cathy Xueqing Zhang<br/><br/>
-I had applied expertise in analyzing and managing large-scale database applications and generated strategic reports and data analytic models, such as multiple regression models, cluster models, and t-SNE models, by using Python. I also understand how to do machine learning by using machine (such as using numpy, Scikit-learn, Pandas, seaborn). 
+I had applied expertise in analyzing and managing large-scale database applications and generated strategic reports and data analytic models, such as multiple regression models, cluster models, and t-SNE models, by using Python. I also understand how to do machine learning by using machine (such as using NumPy, Scikit-learn, Pandas, seaborn). 
 
 # Projects
 - [New York Taxi](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Python/NY_TAXI) (Data visualization)
