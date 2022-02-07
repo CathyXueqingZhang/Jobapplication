@@ -6,7 +6,7 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 - [Interactive Visualizations](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)<br/><br/>
 
 ## Java
-- [Program: Calculator] (Queue & Stack)(https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Java)<br/><br/>
+- [Program: Calculator] (Queue & Stack).
 
 
 ## Python
