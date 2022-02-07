@@ -1,4 +1,4 @@
-Creat by: Cathy Xueqing Zhang
+Create by: Cathy Xueqing Zhang
 This project analyze google search advertisement: Paid Search. Paid search is a form of digital marketing where search engines such as Google and Bing allow advertisers to show ads on their search engine results pages (SERPs). Paid search works on a pay-per-click model.<br/>
 <br/><br/>
 # Data Acquisition 
