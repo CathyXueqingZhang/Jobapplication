@@ -13,4 +13,4 @@ I have finished 5 computer science courses in University of Dayton, including 1 
 
 
 ### Program 4: Information Saving
-- Fot this project, I will connect Java with MySQL to store the information.<br/>
+- For this project, I will connect Java with MySQL to store the information.<br/>
