@@ -6,7 +6,7 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 - [Interactive Visualizations](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Tableau)<br/><br/>
 
 ## Java
-- [Program: Calculator] (Queue & Stack)
+- [Program: Calculator] (Queue & Stack)(https://github.com/CathyXueqingZhang/Jobapplication/tree/master/Java)<br/><br/>
 
 
 ## Python
@@ -17,7 +17,6 @@ I graduated from Columbia University with MS degree in Applied Analytics. My stu
 
 ## R
 - Wind map
-- Regression model
 
 ## SQL
 - [Temporary Tables and Table Variables](https://github.com/CathyXueqingZhang/Jobapplication/tree/master/SQL/temp.md)
