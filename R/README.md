@@ -1,5 +1,5 @@
 ## Wind Vector Map in R
-library used: dplyr,ggplot2,plotly,maps
+library used: dplyr,  ggplot2,  plotly,  maps
 
 ### Downloading data
 Download data from http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWind.html. For this I will need at least longitude, latitude, station_id, time, wind_from_direction, and wind_speed.
